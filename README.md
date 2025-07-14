@@ -10,38 +10,9 @@ I also offer timely delivery and competitive pricing. I appreciate your feedback
 
 ### 🧰 My Technologies
 
-| 💻 Frontend                                                                                                                                                                                                                     | 🖥 Backend                                                                                          | 🗃 Databases                          | ⚙️ Build Tools & DevOps       | 🎨 Design & Testing                       |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | ------------------------------------ | ----------------------------- | ----------------------------------------- |
-| - HTML5, CSS3 / SCSS / SASS<br>- JavaScript (ES6+), TypeScript<br>- React, Next.js<br>- Redux, MobX<br>- WebSockets<br>- BEM methodology<br>- Responsive layout<br>- Cross-browser compatibility<br>- 3D animations, transforms | - Node.js<br>- Nest.js<br>- Express<br>- PHP<br>- Laravel<br>- REST API<br>- WebSocket<br>- Docker | - MongoDB<br>- PostgreSQL<br>- MySQL | - Vite<br>- Webpack<br>- Gulp | - Figma<br>- Photoshop<br>- Perfect Pixel |
-
-#### 💻 Frontend
-
-- HTML5, CSS3 / SCSS / SASS
-- JavaScript (ES6+), TypeScript
-- React, Next.js
-- Redux, MobX
-- WebSockets
-- BEM methodology, responsive layout, cross-browser compatibility
-- 3D animations, transformations
-
-#### 🖥 Backend
-
-- Node.js, Nest.js, Express
-- PHP, Laravel
-- REST API, WebSocket
-- Docker
-
-#### 🗃 Databases
-
-- MongoDB, PostgreSQL, MySQL
-
-#### ⚙️ Build Tools & DevOps
-
-- Vite, Webpack, Gulp
-
-#### 🎨 Design & Testing
-
-- Figma, Photoshop, Perfect Pixel
+| 💻 Frontend                                                                                                                                                                                                                     | 🖥 Backend                                                                              | 🗃 Databases                  | ⚙️ Build Tools & DevOps | 🎨 Design & Testing                   |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | ---------------------------- | ----------------------- | ------------------------------------- |
+| - HTML5, CSS3 / SCSS / SASS<br>- JavaScript (ES6+), TypeScript<br>- React, Next.js<br>- Redux, MobX<br>- WebSockets<br>- BEM methodology<br>- Responsive layout<br>- Cross-browser compatibility<br>- 3D animations, transforms | - Node.js, Nest.js, Express<br>- PHP, Laravel<br>- REST API<br>- WebSocket<br>- Docker | - MongoDB, PostgreSQL, MySQL | - Vite, Webpack, Gulp   | - Figma, Photoshop<br>- Perfect Pixel |
 
 ### 🚀 Looking for freelance projects!
 
