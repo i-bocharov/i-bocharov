@@ -8,7 +8,11 @@ If you have a project or task you'd like to bring to life — I’ll be happy to
 
 I also offer timely delivery and competitive pricing. I appreciate your feedback after our collaboration and am always open to discussion. Ready to help your projects succeed!
 
-### 🛠 My Technologies
+### 🧰 My Technologies
+
+| Frontend 💻                                                                                                                                                                                                                                 | Backend 🖥                                                                                          |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| - HTML5<br>- CSS3 / SCSS / SASS<br>- JavaScript (ES6+)<br>- TypeScript<br>- React<br>- Next.js<br>- Redux, MobX<br>- WebSockets<br>- BEM methodology<br>- Responsive layout<br>- Cross-browser compatibility<br>- 3D animations, transforms | - Node.js<br>- Nest.js<br>- Express<br>- PHP<br>- Laravel<br>- REST API<br>- WebSocket<br>- Docker |
 
 #### 💻 Frontend
 
