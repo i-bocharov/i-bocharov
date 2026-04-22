@@ -13,7 +13,7 @@ I build performant frontends with the React ecosystem and robust backends on Nod
 
 ## 🧰 Tech Stack
 
-| 🎨 Frontend & UI          | ⚙️ Backend & API                              | 🗄️ Databases & ORM          | 🚀  DevOps & Quality                                |
+| 🎨 Frontend & UI          | ⚙️ Backend & API                              | 🗄️ Databases & ORM          | 🚀 DevOps & Quality                                 |
 |---------------------------|-----------------------------------------------|-----------------------------|------------------------------------------------------|
 | HTML5, PUG                | Node.js, Nest.js, Express                     | PostgreSQL, TypeORM, Prisma | Docker, Docker Compose                               |
 | CSS3, SCSS/SASS, BEM      | Python, Django, Flask, FastAPI                | MongoDB, Mongoose           | GitHub Actions, CI/CD                                |
