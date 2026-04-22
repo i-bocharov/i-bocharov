@@ -1,22 +1,44 @@
-### 🧠 About Me
+# 👋 Hi, I'm Igor
 
-Hi! My name is Igor, and I’m a fullstack developer. My expertise covers both **frontend** and **backend** development.
+[🇬🇧 English](README.md) | [🇷🇺 Русский](README.ru.md)
 
-I focus on writing **clean code** and using **efficient solutions** to ensure an excellent user experience. I constantly improve my skills and apply modern technologies that allow me to successfully implement web projects and user interfaces.
+Fullstack Developer focused on **secure, maintainable, and scalable** web applications.  
+I build performant frontends with the React ecosystem and robust backends on Node.js & Python.
 
-If you have a project or task you'd like to bring to life — I’ll be happy to help.
+🔒 **Security-first mindset**: OWASP-compliant APIs, strict TypeScript (`no any`), parameterized queries, CSP/CSRF protection, input validation, rate limiting & path traversal prevention.  
+⚡ **Performance & DX**: Vite/Webpack/Gulp, code optimization, BEM methodology, responsive & cross-browser layouts.  
+📦 **DevOps-ready**: Dockerized services, CI/CD pipelines, structured logging, automated linting & build checks.
 
-I also offer timely delivery and competitive pricing. I appreciate your feedback after our collaboration and am always open to discussion. Ready to help your projects succeed!
+---
 
-### 🧰 My Technologies
+## 🧰 Tech Stack
 
-| 💻 Frontend                                                                                                                                                                                                                     | 🖥 Backend                                                                                  | 🗃 Databases                          | ⚙️ Build Tools & DevOps       | 🎨 Design & Testing                       |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | ------------------------------------ | ----------------------------- | ----------------------------------------- |
-| - HTML5, CSS3 / SCSS / SASS<br>- JavaScript (ES6+), TypeScript<br>- React, Next.js<br>- Redux, MobX<br>- WebSockets<br>- BEM methodology<br>- Responsive layout<br>- Cross-browser compatibility<br>- 3D animations, transforms | - Node.js<br>- Nest.js, Express<br>- Python, Django<br>- REST API<br>- WebSocket<br>- Docker | - MongoDB<br>- PostgreSQL<br>- MySQL | - Vite<br>- Webpack<br>- Gulp | - Figma<br>- Photoshop<br>- Perfect Pixel |
+| 🎨 Frontend & UI          | ⚙️ Backend & API                              | 🗄️ Databases & ORM          | 🚀  DevOps & Quality                                |
+|---------------------------|-----------------------------------------------|-----------------------------|------------------------------------------------------|
+| HTML5, PUG                | Node.js, Nest.js, Express                     | PostgreSQL, TypeORM, Prisma | Docker, Docker Compose                               |
+| CSS3, SCSS/SASS, BEM      | Python, Django, Flask, FastAPI                | MongoDB, Mongoose           | GitHub Actions, CI/CD                                |
+| Cross-browser, Responsive | REST API, WebSocket                           | Redis (caching, queues)     | Vite, Webpack, Gulp                                  |
+| TypeScript (strict)       | JWT, OAuth2, Passport.js, bcrypt              | Django ORM                  | ESLint, Prettier, Stylelint                          |
+| React, Redux Toolkit      | class-validator, class-transformer, Swagger   | Database migrations         | Storybook, Husky, lint-staged, Jest, pytest, Cypress |
+| Figma, Perfect Pixel      | CORS, helmet, express-rate-limit, compression | transactions, seeding       | Git, Conventional Commits                            |
 
-### 🚀 Looking for freelance projects!
+---
 
-If you have an interesting project or task — feel free to reach out.  
-I'm ready to take on website development, web apps, clean code, and high-quality implementation.
+## 🛡️ Security & Architecture Principles
+- ✅ **Zero `any` policy**: Strict TS mode, `unknown` + type guards, generics, branded types
+- ✅ **XSS/CSRF Protection**: DOMPurify, strict CSP headers, SameSite cookies, CSRF tokens, HTTP-only flags
+- ✅ **Injection Prevention**: Parameterized queries, ORMs (TypeORM/Prisma/Django ORM), strict input sanitization
+- ✅ **DoS/ReDoS Mitigation**: Rate limiting, query depth limits, regex complexity validation, execution timeouts
+- ✅ **Path Traversal Defense**: `path.resolve()` normalization, allowlists, virtual file routing
+- ✅ **Memory & Buffer Safety**: Stream processing, chunked uploads, controlled resource allocation
+- ✅ **Zero-Trust Validation**: Schema validation on all API boundaries, fail-fast error handling, structured logging
 
-💼 Kwork: [kwork.ru/user/igor_bocharov](https://kwork.ru/user/igor_bocharov)
+---
+
+## 🚀 Open to Collaboration
+Looking for **full-time, contract, or freelance** opportunities where code quality, security, and user experience matter.  
+I deliver production-ready systems with clean architecture, CI/CD pipelines, and comprehensive documentation.
+
+📩 [igor.bocharov56@yandex.ru](mailto:igor.bocharov56@yandex.ru)  
+💬 [Telegram: https://t.me/bocharov56](https://t.me/bocharov56)  
+💼 [Kwork: https://kwork.ru/user/igor_bocharov](https://kwork.ru/user/igor_bocharov)
